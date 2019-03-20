@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css?family=Srisakdi');
+@import url('https://fonts.googleapis.com/css?family=Hi+Melody');
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower');
+.header{
+ background-image: url("http://hdwpro.com/wp-content/uploads/2016/09/Nice-Cute-Background-380x250.jpg");  
+ background-size:20%;
+  width:1000px;
+    margin:0 auto;
+    text-align:center;
+    padding:10px;
+    border: inset 10px #ffcc00;
+	border-radius: 10px;
+	
+}
+div {
+    width:370px;
+    height:800px;
+    border: 10px outset #ffcc00;
+    float:left;
+    padding: 1px;
+    text-align:center;
+}
+p{
+  text-align:center;  
+  font-size:35px;
+  color:#ffaa00;
+  text-shadow:4px 4px 3px rgba(0,0,0,0.3);
+    padding:10px;
+    font-family:'Hi melody', cursive;
+}
+h1{
+ text-align:center; 
+ font-size:100px;
+ color:#ffd633;
+ font-family:'Srisakdi', cursive;
+ 
+}
+h2{
+ text-align:center; 
+ font-size:50px;
+ color:#ffd11a;
+ text-shadow:4px 4px 3px rgba(0,0,0,0.3);
+    padding:10px;
+    font-family:'Hi melody', cursive;
+}
+h3{
+ text-align:center; 
+ font-size:50px;
+ color:aqua;
+ font-family:'Hi melody', cursive;
+}
+
+body{
+ background-image:url("https://static9.depositphotos.com/1004996/1111/v/950/depositphotos_11119809-stock-illustration-music-background.jpg");   
+}
+ul{
+  font-size:25px;
+ color:aqua; 
+ font-family:'Indie flower', cursive;
+  text-shadow:3px 4px 3px rgba(0,0,0,0.3);
+    padding:10px;
+}
+.weird{
+ background-image: url("https://s-media-cache-ak0.pinimg.com/originals/63/ec/d0/63ecd000e736ef8bc81b477299b38615.jpg");   
+background-size:115%;
+opacity: 0.9;
+}
+.effort{
+    background-image: url("https://i.pinimg.com/736x/41/5d/04/415d0447f783f384ffcc9389b172416b--love-birds-beautiful-birds.jpg");
+    background-size:115%;
+    opacity: 0.9;
+}
+.parody{
+ background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcUiOQp3y7DnmWKWHx05imFrgyW6nLYlIuKCg2YTy5OkKlBJ23ag");   
+ background-size:115%;
+ opacity: 0.9;
+}
+.offended{
+ background-image: url("https://i.pinimg.com/736x/e8/56/e3/e856e380113b9afc38361ce2d28bc104--adventure-time-wallpaper-adventure-time-stuff.jpg");
+ background-size:110%;
+ opacity: 0.9;
+}
+.list{
+ position: relative; 
+	top: -115px;
+}
+.nominees{
+ position:relative;
+ top:-70px;
+}
+img{
+    width:200px;
+    }
+    .image{
+     width:140px;   
+    }
